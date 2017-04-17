@@ -7,9 +7,7 @@ package triangle;
  */
 public class Triangle {
 
-   public void check(){
-       
-   }
+
 
     public String triang(int s1, int s2, int s3){
        
